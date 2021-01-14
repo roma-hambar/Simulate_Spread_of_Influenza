@@ -17,7 +17,7 @@ In this task, we will generate a list of all Patient objects from the given file
 """
 
 
-from a2_31223958_task1 import *
+from task1 import *
 import math
 import random
 

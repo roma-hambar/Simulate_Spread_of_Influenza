@@ -36,7 +36,7 @@ Test Scenario C:
     contained drastically, thus flattening the curve instantly within the first few days.
 """
 
-from a2_31223958_task2 import *
+from task2 import *
 import matplotlib.pyplot as plt
 
 # visual_curve function is used to generate a plot of contagious people count vs number of days by calling the
