@@ -10,24 +10,3 @@ meeting their friends. To decide whether the infected person will meet a particu
 of the meeting_probability that is given. Meeting_Probability is a quantity that defines the level of social distancing
 measures that have been imposed. The simulation will be carried out the said number of simulation days.
 End of the simulation, we will get the count of infected people on each day.
-In this task, we will plot the graph of count of contagious people along the number of days.
-Comments for output of Test scenarios:
-Test Scenario A :
-    1. Number of days: 30
-    2. Meeting probability: 0.6
-    3. Patient zero health: 25 health points
-    From scenario_A.png, we can observe that since the social distancing is not very strictly followed by all Patients,
-    the infection spreads amongst all 200 people by the end of 30 days due to patient zero's poor health.
-Test Scenario B:
-    1. Number of days: 60
-    2. Meeting probability: 0.25
-    3. Patient zero health: 49 health points
-    From scenario_B.png, we can conclude that the patient zero's health points play a crucial role in determining how
-    quickly the virus spread inspite of strictening social distancing. ALthough the disease spreads slowly amongst
-    considerable number of Patients due to lesser meeting probability.
-Test Scenario C:
-    1. Number of days: 90
-    2. Meeting probability: 0.18
-    3. Patient zero health: 40 health points
-    From scenario_C.png, we can conclude that if strict social distancing rules are implied, the spread of virus can be
-    contained drastically, thus flattening the curve instantly within the first few days.
